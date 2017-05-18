@@ -1,0 +1,12 @@
+<hr />
+<hr />
+<hr />
+<p>
+	<span style="font-size:32px;font-family:Arial;">hello</span> 
+</p>
+<p>
+	<span style="font-size:32px;font-family:Arial;">my</span> 
+</p>
+<p align="left">
+	<span style="font-size:32px;font-family:Arial;">name</span> 
+</p>

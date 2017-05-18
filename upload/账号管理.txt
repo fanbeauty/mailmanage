@@ -1,0 +1,15 @@
+邮箱账号
+	meichf_rg@svmsoft.com.cn
+	sugonmeichf_rg
+网站后台：
+	admin
+	admin888
+gitlab账号：
+	url地址：10.0.33.36
+	meichf_rg@svmsoft.com.cn
+	huanhuan0921
+
+Linux
+	密码:svmsoft_123
+自由软件库
+	http://download.chinaunix.net/
